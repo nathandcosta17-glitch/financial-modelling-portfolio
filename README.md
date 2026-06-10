@@ -14,7 +14,7 @@ and investment research.
 
 ## Projects
 
-### 1. DCF Valuation — Emaar Properties (Coming Soon)
+### 1. DCF Valuation — Emaar Properties ✅ COMPLETE [Download Model](Emaar_DCF_Model_Nathan_DCosta.xlsx)
 - **Methodology:** Discounted Cash Flow (FCFF approach), 5-year projection
 - **Key outputs:** Implied share price, sensitivity analysis (WACC vs growth rate)
 - **Data sources:** Emaar Annual Reports 2022–2024, DFM
